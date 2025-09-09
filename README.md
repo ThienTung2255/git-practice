@@ -1,2 +1,1 @@
-# Git Practice
-: gioi thieu: toi la ThienTung, MSSV 220902.
+day la REAME tu nhanh main.
